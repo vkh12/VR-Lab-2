@@ -1,1 +1,1 @@
-# VR-Lab-2
+# Blender-Lab-2
